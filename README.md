@@ -15,7 +15,7 @@ Links para downloads:
 * Neo4J Community: [http://neo4j.com/download/]
 
 Wiki com motivação e todas as infos necessárias para:
-* Motivação: link
+* Motivação: [link](https://github.com/abellini/walmart-service/wiki/1.-Motivação)
 * Estrutura do projeto: link
 * Aplicação: link
 * Melhorias: link
