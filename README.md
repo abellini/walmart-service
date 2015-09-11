@@ -15,7 +15,7 @@ Links para downloads:
 * Neo4J Community: [http://neo4j.com/download/]
 
 Wiki com motivação e todas as infos necessárias para:
-* Objetivo: link
+* Motivação: link
 * Estrutura do projeto: link
 * Aplicação: link
 * Melhorias: link
